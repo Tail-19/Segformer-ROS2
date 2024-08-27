@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/hunter/ws_yanxin/ws_slam/devel/lib/python2.7/dist-packages",
+        "/home/hunter/Workspace/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/hunter/ws_yanxin/ws_slam/devel/lib/python2.7/dist-packages",
+        "/home/hunter/Workspace/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

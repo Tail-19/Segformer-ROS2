@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hunter/ws_yanxin/ws_slam/devel/include/**",
+        "/home/hunter/Workspace/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/hunter/ws_yanxin/ws_slam/src/A-LOAM/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/costmap_converter/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/global_planner/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/hunter_ros/hunter_base/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/hunter_local_planner/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/hunter_move_base/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/hunter_nav/hunter_navigation/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/hunter_ros/hunter_webots_sim/include/**",
+        "/home/hunter/ws_yanxin/ws_slam/src/LIO-SAM/include/**",
+        "/home/hunter/ws_yanxin/ws_slam/src/octomap_mapping/octomap_server/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/move_base/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/nav_core/include/**",
+        "/home/hunter/ws_yanxin/ws_slam/src/ros_octomap/octomap_pa/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/social_distance/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/navigation/teb_local_planner/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/ultrasonic_ros/include/**",
+        "/home/hunter/Workspace/catkin_ws/src/wrp_sdk/include/**",
+        "/home/hunter/ws_yanxin/ws_slam/src/zed-ros-wrapper/zed-ros-interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
